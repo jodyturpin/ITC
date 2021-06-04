@@ -1,10 +1,3 @@
-/**
-* Template Name: Arsha - v4.0.1
-* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -391,9 +384,7 @@ h1, h2, h3, h4, h5, h6 {
   min-height: auto; 
 }
 
-#hero .container {
-  
-}
+
 
 #hero p {
   color: white;
@@ -430,35 +421,9 @@ h1, h2, h3, h4, h5, h6 {
   background: #47b2e4;
 }
 
-#hero .btn-get-started:hover {
-  background: #209dd8;
-}
 
-#hero .btn-watch-video {
-  font-size: 16px;
-  display: flex;
-  align-items: center;
-  transition: 0.5s;
-  margin: 10px 0 0 25px;
-  color: #fff;
-  line-height: 1;
-}
 
-#hero .btn-watch-video i {
-  line-height: 0;
-  color: #fff;
-  font-size: 32px;
-  transition: 0.3s;
-  margin-right: 8px;
-}
 
-#hero .btn-watch-video:hover i {
-  color: #47b2e4;
-}
-
-#hero .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
-}
 
  /* Login */
 /*
@@ -641,7 +606,7 @@ input[type=submit]:active {
 }
 /* End Login */
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   #hero {
     height: 100vh;
     text-align: center;
@@ -656,7 +621,7 @@ input[type=submit]:active {
   #hero .hero-img img {
     width: 50%;
   }
-}
+} */
 
 @media (max-width: 768px) {
   #hero h1 {
